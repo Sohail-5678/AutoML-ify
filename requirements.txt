@@ -13,11 +13,11 @@
 # ydata-profiling 
 # pydantic==1.10.8
 
-streamlit==1.31.0
-pandas==1.5.3
-numpy==1.24.3
-matplotlib==3.7.1
-seaborn==0.12.2
-plotly==5.18.0
-scikit-learn==1.2.2
-xgboost==1.7.5
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
